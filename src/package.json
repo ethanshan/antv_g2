@@ -1,0 +1,6 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "antv": "0.2.2"
+  }
+}
